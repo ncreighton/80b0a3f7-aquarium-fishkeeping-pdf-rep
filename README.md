@@ -1,2 +1,45 @@
-# 80b0a3f7-aquarium-fishkeeping-pdf-rep
-Built for aquarium fishkeeping professionals who are tired of building the same data integration from scratch for every project.  SDKs and quickstart guides for Python, JavaScript, PHP, and cURL. Rate limiting, authentication, and error handling built in from the start.  ## What's Included  - Aquarium &amp; Fishkeeping Pdf Report Generation And Brandin
+# Aquarium & Fishkeeping PDF Report Generation and Branding API
+
+> Api Product for Aquarium Fishkeeping
+
+Built for aquarium fishkeeping professionals who are tired of building the same data integration from scratch for every project.
+
+SDKs and quickstart guides for Python, JavaScript, PHP, and cURL. Rate limiting, authentication, and error handling built in from the start.
+
+## What's Included
+
+- Aquarium & Fishkeeping Pdf Report Generation And...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/14AfZhh1B6AkcVWfQ8cZO0m)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
